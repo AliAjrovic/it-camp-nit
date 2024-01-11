@@ -1,0 +1,13 @@
+*{
+box-sizing: border-box;
+    margin: 400px;
+    padding:400px;
+}
+
+.kopriva{
+    background-color: green;
+    width: 300px;
+    border: 20px solid gold;
+    padding: 50px;
+    margin: 20px;
+}
